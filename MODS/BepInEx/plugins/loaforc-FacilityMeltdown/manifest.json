@@ -1,0 +1,12 @@
+{
+  "namespace": "loaforc",
+  "name": "FacilityMeltdown",
+  "description": "Maybe taking the apparatus out isn't such a great idea...",
+  "version_number": "2.6.20",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "Evaisa-LethalLib-0.16.0"
+  ],
+  "website_url": "https://github.com/LoafOrc/FacilityMeltdown",
+  "FullName": "loaforc-FacilityMeltdown"
+}

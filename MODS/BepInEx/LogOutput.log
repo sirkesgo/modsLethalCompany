@@ -1,0 +1,695 @@
+[Message:   BepInEx] BepInEx 5.4.23.2 - Lethal Company (06/10/2024 1:10:07)
+[Info   :   BepInEx] Running under Unity v2022.3.9.15351836
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.23.2]
+[Info   :   BepInEx] Loaded 1 patcher method from [FixPluginTypesSerialization 1.0.0.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.1.0]
+[Info   :   BepInEx] 3 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Message:FixPluginTypesSerialization] Using the config cache
+[Info   :FixPluginTypesSerialization] Running under Unity v2022.3.9
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 30 plugins to load
+[Info   :   BepInEx] Loading [GraphicsAPI 1.0.0]
+[Info   :GraphicsAPI] Loaded asset bundle!
+[Info   :GraphicsAPI] GraphicsAPI started.
+[Info   :   BepInEx] Loading [LCCutscene 1.0.0]
+[Info   :LCCutscene] Loaded asset bundle!
+[Info   :LCCutscene] LCCutscene started.
+[Info   :   BepInEx] Loading [Diversity 2.1.2]
+[Info   : Diversity] Loaded asset bundle!
+[Debug  : Diversity] Watcher as been registered!
+[Info   : Diversity] Diversity started.
+[Info   :   BepInEx] Loading [Custom Boombox Music 1.4.0]
+[Info   :Custom Boombox Music] Loading...
+[Info   :Custom Boombox Music] Created directory at C:\Users\diego\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Default\BepInEx\Custom Songs\Boombox Music
+[Info   :Custom Boombox Music] Initializing config...
+[Info   :Custom Boombox Music] Config initialized!
+[Info   :Custom Boombox Music] Loading Complete!
+[Info   :   BepInEx] Loading [Custom Sounds 2.3.2]
+[Info   :CustomSounds] "HideManagerGameObject" is correctly set to true.
+[Info   :CustomSounds] Plugin CustomSounds is loaded!
+[Info   :   BepInEx] Loading [LethalLib 0.16.1]
+[Info   : LethalLib] LethalLib loaded!!
+[Info   :   BepInEx] Loading [ReservedItemSlotCore 2.0.36]
+[Info   :ReservedItemSlotCore-2.0.36] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.36] ReservedItemSlotCore loaded
+[Info   :   BepInEx] Loading [ReservedFlashlightSlot 2.0.8]
+[Info   :ReservedFlashlightSlot-2.0.8] BindingConfigs
+[Info   :ReservedItemSlotCore-2.0.36] Created ReservedItemSlotData for: flashlight. Slot priority: 200
+[Info   :ReservedFlashlightSlot-2.0.8] ReservedFlashlightSlot loaded
+[Info   :   BepInEx] Loading [TooManyEmotes 2.2.7]
+[Info   :TooManyEmotes-2.2.7] BindingConfigs
+[Info   :TooManyEmotes-2.2.7] Initializing custom emote hotkeys.
+[Info   :TooManyEmotes-2.2.7] Successfully loaded 28 animation clips from asset bundle: Assets/emotes_complementary
+[Info   :TooManyEmotes-2.2.7] Successfully loaded 99 animation clips from asset bundle: Assets/emotes_0
+[Info   :TooManyEmotes-2.2.7] Successfully loaded 131 animation clips from asset bundle: Assets/emotes_1
+[Info   :TooManyEmotes-2.2.7] Successfully loaded 90 animation clips from asset bundle: Assets/emotes_2
+[Info   :TooManyEmotes-2.2.7] Successfully loaded 8 animation clips from asset bundle: Assets/emotes_3
+[Info   :TooManyEmotes-2.2.7] Successfully loaded 11 animation clips from asset bundle: Assets/emotes_special
+[Info   :TooManyEmotes-2.2.7] Successfully loaded radial menu asset.
+[Info   :TooManyEmotes-2.2.7] Loaded 27 emote props.
+[Info   :TooManyEmotes-2.2.7] Loading 143 dmca-free audio clips.
+[Info   :TooManyEmotes-2.2.7] Loading 152 dmca audio clips.
+[Info   :TooManyEmotes-2.2.7] TooManyEmotes finished loading!
+[Info   :   BepInEx] Loading [MaxWasUnavailable.LethalModDataLib 1.2.2]
+[Debug  :MaxWasUnavailable.LethalModDataLib] Patching...
+[Debug  :MaxWasUnavailable.LethalModDataLib] Patched!
+[Info   :MaxWasUnavailable.LethalModDataLib] Plugin MaxWasUnavailable.LethalModDataLib is loaded!
+[Info   :   BepInEx] Loading [LethalLevelLoader 1.3.10]
+[Info   :LethalLevelLoader] LethalLevelLoader loaded!!
+[Info   :LethalLevelLoader] evaisa.lethallibfound, enabling compatability patches.
+[Info   :LethalLevelLoader] Finding LethalBundles!
+[Info   :LethalLevelLoader] Config Level Set As: User
+[Info   :   BepInEx] Loading [Lethal Company API 3.4.9]
+[Warning:Lethal Company API] 
+.____    _________           _____  __________ .___  
+|    |   \_   ___ \         /  _  \ \______   \|   | 
+|    |   /    \  \/        /  /_\  \ |     ___/|   | 
+|    |___\     \____      /    |    \|    |    |   | 
+|_______ \\______  /______\____|__  /|____|    |___| 
+        \/       \//_____/        \/                 
+                                                     
+[Info   :Lethal Company API] LC_API Starting up..
+[Info   :   BepInEx] Loading [LC Sound Tool 1.5.1]
+[Info   :LCSoundTool] Plugin LCSoundTool is loaded!
+[Info   :   BepInEx] Loading [FacilityMeltdown 2.6.20]
+[Debug  :me.loaforc.facilitymeltdown] [Assets] AssetBundle `facilitymeltdown` contains these objects: 
+assets/lethalcompany/mods/facilitymeltdown/audio/final explosion.mp3
+assets/lethalcompany/mods/facilitymeltdown/audio/high radiation.ogg
+assets/lethalcompany/mods/facilitymeltdown/audio/low radiation.ogg
+assets/lethalcompany/mods/facilitymeltdown/audio/medium radiation.ogg
+assets/lethalcompany/mods/facilitymeltdown/audio/meltdownmusic.mp3
+assets/lethalcompany/mods/facilitymeltdown/audio/shockwave.mp3
+assets/lethalcompany/mods/facilitymeltdown/audio/warning1.mp3
+assets/lethalcompany/mods/facilitymeltdown/audio/warning2.mp3
+assets/lethalcompany/mods/facilitymeltdown/audio/warning3.mp3
+assets/lethalcompany/mods/facilitymeltdown/audio/warning4.mp3
+assets/lethalcompany/mods/facilitymeltdown/facilityexplosion.prefab
+assets/lethalcompany/mods/facilitymeltdown/fireball.shadergraph
+assets/lethalcompany/mods/facilitymeltdown/fireballshellmaterial.mat
+assets/lethalcompany/mods/facilitymeltdown/geiger counter/geigercounteritem.prefab
+assets/lethalcompany/mods/facilitymeltdown/geiger counter/geigercounteritemdef.asset
+assets/lethalcompany/mods/facilitymeltdown/geiger counter/geigercounternode.asset
+assets/lethalcompany/mods/facilitymeltdown/geiger counter/i guess its a geiger counter.fbx
+assets/lethalcompany/mods/facilitymeltdown/geiger counter/icon.png
+assets/lethalcompany/mods/facilitymeltdown/meltdownhandler.prefab
+assets/lethalcompany/mods/facilitymeltdown/particles/dust.prefab
+assets/lethalcompany/mods/facilitymeltdown/particles/rain.png
+assets/lethalcompany/mods/facilitymeltdown/particles/rainmaterial.mat
+assets/lethalcompany/mods/facilitymeltdown/particles/ripple.png
+assets/lethalcompany/mods/facilitymeltdown/particles/rippleparticle.mat
+assets/lethalcompany/mods/facilitymeltdown/particles/waterstream.prefab
+assets/lethalcompany/mods/facilitymeltdown/shockwave.mat
+assets/lethalcompany/mods/facilitymeltdown/shockwave.prefab
+assets/lethalcompany/mods/facilitymeltdown/shockwave.shadergraph
+assets/lethalcompany/mods/facilitymeltdown/terminal/healthkeyword.asset
+assets/lethalcompany/mods/facilitymeltdown/terminal/reactorhealthreport.asset
+assets/lethalcompany/mods/facilitymeltdown/terminal/reactorkeyword.asset
+[Debug  :me.loaforc.facilitymeltdown] [Assets] Got LoadFromBundle attribute on `defaultMusic`. Loading asset: `meltdownmusic.mp3` into the [roperty.
+[Debug  :me.loaforc.facilitymeltdown] [Assets] Got LoadFromBundle attribute on `shockwave`. Loading asset: `shockwave.mp3` into the [roperty.
+[Debug  :me.loaforc.facilitymeltdown] [Assets] Got LoadFromBundle attribute on `facilityExplosionPrefab`. Loading asset: `FacilityExplosion.prefab` into the [roperty.
+[Debug  :me.loaforc.facilitymeltdown] [Assets] Got LoadFromBundle attribute on `meltdownHandlerPrefab`. Loading asset: `MeltdownHandler.prefab` into the [roperty.
+[Debug  :me.loaforc.facilitymeltdown] [Assets] Got LoadFromBundle attribute on `shockwavePrefab`. Loading asset: `Shockwave.prefab` into the [roperty.
+[Debug  :me.loaforc.facilitymeltdown] [Assets] Got LoadFromBundle attribute on `geigerCounterItemDef`. Loading asset: `GeigerCounterItemDef.asset` into the [roperty.
+[Debug  :me.loaforc.facilitymeltdown] [Assets] Got LoadFromBundle attribute on `geigerCounterNode`. Loading asset: `GeigerCounterNode.asset` into the [roperty.
+[Debug  :me.loaforc.facilitymeltdown] [Assets] Got LoadFromBundle attribute on `healthKeyword`. Loading asset: `HealthKeyword.asset` into the [roperty.
+[Debug  :me.loaforc.facilitymeltdown] [Assets] Got LoadFromBundle attribute on `reactorKeyword`. Loading asset: `ReactorKeyword.asset` into the [roperty.
+[Debug  :me.loaforc.facilitymeltdown] [Assets] Got LoadFromBundle attribute on `reactorHealthNode`. Loading asset: `ReactorHealthReport.asset` into the [roperty.
+[Info   :me.loaforc.facilitymeltdown] Assets.Init               == Getting assets
+[Info   :me.loaforc.facilitymeltdown] LangParser.Init           == Getting possible languages
+[Debug  :me.loaforc.facilitymeltdown] Test Config Value: 240
+[Info   :me.loaforc.facilitymeltdown] new MeltdownConfig()      == Setting up config
+[Info   :me.loaforc.facilitymeltdown] Loading language: English (en)
+[Info   :me.loaforc.facilitymeltdown] Loaded English
+[Info   :me.loaforc.facilitymeltdown] LangParser.SetLanguage    == Setting language
+[Debug  :me.loaforc.facilitymeltdown] Registering Patch handler: ApparaticePatch
+[Debug  :me.loaforc.facilitymeltdown] Registering Patch handler: BlobAIPatch
+[Debug  :me.loaforc.facilitymeltdown] Registering Patch handler: EntranceTeleportPatch
+[Debug  :me.loaforc.facilitymeltdown] Registering Patch handler: GameNetworkManagerPatch
+[Debug  :me.loaforc.facilitymeltdown] Registering Patch handler: GrabbableObjectPatch
+[Debug  :me.loaforc.facilitymeltdown] Registering Patch handler: <>c__DisplayClass0_0
+[Debug  :me.loaforc.facilitymeltdown] Registering Patch handler: PlayerControllerPatch
+[Debug  :me.loaforc.facilitymeltdown] Registering Patch handler: <>O
+[Debug  :me.loaforc.facilitymeltdown] Registering Patch handler: IncludePrivateSetterContractResolver
+[Debug  :me.loaforc.facilitymeltdown] Registering Patch handler: StartOfRoundPatches
+[Debug  :me.loaforc.facilitymeltdown] Registering Patch handler: TerminalPatch
+[Debug  :me.loaforc.facilitymeltdown] Registering Patch handler: ReactorHealthReport
+[Info   :me.loaforc.facilitymeltdown] RegisterPatches           == Integrating into LethalCompany
+[Info   :me.loaforc.facilitymeltdown] RegisterNetworking        == Making sure everything is networked
+[Info   :me.loaforc.facilitymeltdown] Registering Items
+[Info   :me.loaforc.facilitymeltdown] RegisterItems             == Adding the Geiger Counter
+[Info   :me.loaforc.facilitymeltdown] CompatibleDependency.Init == Checking for any soft dependencies
+[Info   :me.loaforc.facilitymeltdown] FacilityMeltdown:2.6.20 by loaforc has loaded! have fun :3
+[Info   :me.loaforc.facilitymeltdown]          .-_; ;_-.          
+[Info   :me.loaforc.facilitymeltdown]         / /     \ \        
+[Info   :me.loaforc.facilitymeltdown]        | |       | |      
+[Info   :me.loaforc.facilitymeltdown]         \ \.---./ /       
+[Info   :me.loaforc.facilitymeltdown]   .-\""~   .---.   ~""-.
+[Info   :me.loaforc.facilitymeltdown]  ,`.-~// .'`---`'. \\~-.`,
+[Info   :me.loaforc.facilitymeltdown]  ' `   | | \(_)/ | |   `' 
+[Info   :me.loaforc.facilitymeltdown]   ,    \  \ | | /  /    , 
+[Info   :me.loaforc.facilitymeltdown]   ;`'.,_\  `-'-'  /_,.'`; 
+[Info   :me.loaforc.facilitymeltdown]    '-._  _.-'^'-._  _.-'    
+[Info   :   BepInEx] Loading [MoreCompany 1.10.1]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Loading SETTINGS...
+[Info   :MoreCompany] Checking: C:\Users\diego\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Default\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Loading COSMETICS...
+[Info   :MoreCompany] Loading DEFAULT COSMETICS...
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :   BepInEx] Loading [Backrooms 0.1.3]
+[Info   : Backrooms] Plugin Backrooms is loaded!
+[Info   :   BepInEx] Loading [Night Sky Plugin 1.0.0]
+[Info   : Unity Log] Nightsky loaded
+[Info   :   BepInEx] Loading [Helmet_Cameras 2.1.5]
+[Info   :Helmet_Cameras] Plugin Helmet_Cameras is loaded with version 2.1.5!
+[Info   :Helmet_Cameras] --------Helmet camera patch done.---------
+[Info   :   BepInEx] Loading [Skinwalker Mod 5.0.0]
+[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 5.0.0
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Centipede VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_CoilHead VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_EyelessDog VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_ForestGiant VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GhostGirl VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GiantWorm VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_HoardingBug VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Hygrodere VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Jester VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Masked VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Nutcracker VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_SporeLizard VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_OtherEnemies VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [1]
+[Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
+[Info   :   BepInEx] Loading [Scoopy's Variety Mod 1.2.0]
+[Info   :ScoopysVarietyMod] Successfully loaded WeezerGuitar (Item)
+[Info   :ScoopysVarietyMod] Successfully loaded FireAxe (Item)
+[Info   :ScoopysVarietyMod] Successfully loaded CrownItem (Item)
+[Info   :ScoopysVarietyMod] Custom Scrap Loaded Successfully
+[Info   :ScoopysVarietyMod] Registering flow CastleFlow with:
+dungeonRarity: 300
+dungeonMoons: vanilla
+guaranteeDungeon: False
+dungeonSizeMax: 2
+dungeonSizeMin:1
+[Info   :ScoopysVarietyMod] Registered CastleFlow dungeon interior on all vanilla moons with rarity300.
+[Info   :ScoopysVarietyMod] Registering flow SewerFlow with:
+dungeonRarity: 300
+dungeonMoons: vanilla
+guaranteeDungeon: False
+dungeonSizeMax: 2
+dungeonSizeMin:1
+[Info   :ScoopysVarietyMod] Registered SewerFlow dungeon interior on all vanilla moons with rarity300.
+[Info   :ScoopysVarietyMod] Initialised Successfully
+[Info   :   BepInEx] Loading [Scopophobia 1.1.5]
+[Info   :Scopophobia] Scopophobia | SCP-096 has entered the facility. All remaining personnel proceed with caution.
+[Info   :   BepInEx] Loading [SCPCBDunGen 4.3.4]
+[Debug  :SCPCBDunGen] Hooking...
+[Debug  :SCPCBDunGen] Finished Hooking!
+[Info   :SCPCBDunGen] Registed SCP 914 json file successfully: C:\Users\diego\AppData\Roaming\Thunderstore Mod Manager\DataFolder\LethalCompany\profiles\Default\BepInEx\plugins\Badham_Mods-SCPFoundationDungeon\badhamknibbs-scp914-recipes\default.json
+[Debug  :SCPCBDunGen] Hooking...
+[Debug  :SCPCBDunGen] Finished Hooking!
+[Info   :SCPCBDunGen] SCP:CB DunGen for Lethal Company [Version 4.3.4] successfully loaded.
+[Info   :SCPCBDunGen] SCPCBDunGen v4.3.4 has loaded!
+[Info   :   BepInEx] Loading [Yippee tbh mod 1.2.4]
+[Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loading.
+[Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loaded. Yippee!!!
+[Info   :   BepInEx] Loading [CoilHeadStare 1.0.9]
+[Info   :TDP.CoilHeadStare] CoilHeadStare 1.0.9 loaded.
+[Info   :   BepInEx] Loading [Late Company 1.0.17]
+[Info   :Late Company] Late Company loaded!
+[Info   :   BepInEx] Loading [ViewExtension 1.3.0]
+[Info   :ViewExtension] View distance adjusted to 1000
+[Info   :   BepInEx] Loading [Goku Bracken 1.5.8]
+[Info   :Goku Bracken] Initializing config...
+[Info   :Goku Bracken] Loading asset bundle...
+[Info   :Goku Bracken] Hey it's me! Goku!
+[Info   :Goku Bracken] Your files look pretty strong! I'm gonna patch them!
+[Info   :   BepInEx] Loading [Wandering Creature 1.2.1]
+[Info   : Unity Log] WanderingCreaturePlugin loaded
+[Info   :   BepInEx] Loading [Mimics 2.6.4]
+[Info   :x753.Mimics] Plugin Mimics is loaded!!
+[Info   :   BepInEx] Loading [More Suits 1.4.3]
+[Info   :More Suits] Plugin More Suits is loaded!
+[Message:   BepInEx] Chainloader startup complete
+[Info   :LethalLevelLoader] Found ExtendedMod: AquatisMod
+[Info   :LethalLevelLoader] Found ExtendedMod: OrionMod
+[Info   :LethalLevelLoader] Found ExtendedMod: Egypt
+[Warning: Unity Log] The referenced script (WhoopieCushionTrigger) on this Behaviour is missing!
+[Warning: Unity Log] The referenced script on this Behaviour (Game Object 'Trigger') is missing!
+[Info   :LethalLevelLoader] Found ExtendedMod: Secret Labs 1
+[Info   :LethalLevelLoader] Found ExtendedMod: atlasabyssextendedmod
+[Info   :LethalLevelLoader] Found ExtendedMod: TombExtended
+[Info   :LethalLevelLoader] Adding ScenePath: Egypt
+[Info   :LethalLevelLoader] Adding ScenePath: AquatisPlanetScene
+[Info   :LethalLevelLoader] Adding ScenePath: OrionPlanetScene
+[Info   :LethalLevelLoader] Adding ScenePath: Atlas Abyss
+[Info   :LethalLevelLoader] Adding ScenePath: Secret Labs
+[Info   :ReservedFlashlightSlot-2.0.8] Initializing hotkeys.
+[Info   :Lethal Company API] LC_API Started!
+[Warning:LCSoundTool] Networking disabled. Mod in fully client side mode, but no networked actions can take place! You can safely ignore this if you want the mod to run fully client side.
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM1, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM2, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM3, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM4, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: OEM5, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Unknown key name: IMESelected, skipping remapping
+[Debug  :   BepInEx] [UnityInput] Using NewInputSystem
+[Info   : Unity Log] Saving changed settings
+[Info   : Unity Log] subcribing to steam callbacks
+[Debug  :me.loaforc.facilitymeltdown] Registered GeigerCounterItem as a network prefab.
+[Debug  :me.loaforc.facilitymeltdown] Registered MeltdownHandler as a network prefab.
+[Info   :me.loaforc.facilitymeltdown] Succesfully registered 2 network prefabs.
+[Warning: Unity Log] DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[Info   :LethalLevelLoader] Registering Bundle Content!
+[Info   :LethalLevelLoader] Skipped Registering 343 NetworkObjects As They Were Already Registered.
+[Info   : Diversity] Walker Has been registered!
+[Info   : Diversity] Watcher Has been registered!
+[Info   :MaxWasUnavailable.LethalModDataLib] Registering ModDataAttribute fields...
+[Info   :MaxWasUnavailable.LethalModDataLib] Hooking up save, load and delete events...
+[Info   :MaxWasUnavailable.LethalModDataLib] ModDataHandler initialised!
+[Debug  :MaxWasUnavailable.LethalModDataLib] Loading data from file LCGeneralSaveData.moddata with key MaxWasUnavailable.LethalModDataLib.LMDLVersion...
+[Debug  :MaxWasUnavailable.LethalModDataLib] LethalModDataLib version (1.2.2) matches last saved version (1.2.2).
+[Debug  :MaxWasUnavailable.LethalModDataLib] Saving data to file LCGeneralSaveData.moddata with key MaxWasUnavailable.LethalModDataLib.LMDLVersion...
+[Info   : Unity Log] Load prefabs to Network Manager
+[Info   :MoreCompany] LANMenu startLAN Patched
+[Info   : Unity Log] Returning week num: 42
+[Info   : Unity Log] week num: 42
+[Info   : Unity Log] host button pressed
+[Info   : Unity Log] Returning week num: 42
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] Displaying menu message
+[Info   : Unity Log] Connection approval callback! Game version of client request: 
+[Info   : Unity Log] Joining client id: 0; Local/host client id: 0
+[Info   : Unity Log] Stopped connection approval callback, as the client in question was the host!
+[Warning: Unity Log] [Netcode] You cannot decline the host connection. The connection was automatically approved.
+[Info   : Unity Log] started host!
+[Info   : Unity Log] are we in a server?: True
+[Message:Lethal Company API] server pre-setup success
+[Info   : Unity Log] Lobby has been created
+[Info   : Diversity] Added StartOfRoundRevamp to: PlayersManager / HUDManager
+[Debug  : Diversity] Added DiversityAIManager!
+[Warning:Custom Boombox Music] No songs found!
+[Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedLevels:
+1. 41 Experimentation (Vanilla)
+2. 220 Assurance (Vanilla)
+3. 56 Vow (Vanilla)
+4. 71 Gordion (Vanilla)
+5. 61 March (Vanilla)
+6. 20 Adamance (Vanilla)
+7. 85 Rend (Vanilla)
+8. 7 Dine (Vanilla)
+9. 21 Offense (Vanilla)
+10. 8 Titan (Vanilla)
+11. 68 Artifice (Vanilla)
+12. 44 Liquidation (Vanilla)
+13. 5 Embrion (Vanilla)
+14. 10 EGypt (Custom)
+15. 112 Aquatis (Custom)
+16. 43 Orion (Custom)
+17. Atlas Abyss (Custom)
+18. Secret Labs (Custom)
+
+[Info   :LethalLevelLoader] LethalLevelLoader Loaded The Following ExtendedDungeonFlows:
+1. Facility (Level1Flow) (Vanilla)
+2. Haunted Mansion (Level2Flow) (Vanilla)
+3. Facility (Level1FlowExtraLarge) (Vanilla)
+4. Facility (Level1Flow3Exits) (Vanilla)
+5. Mineshaft (Level3Flow) (Vanilla)
+6. CastleFlow (CastleFlow) (Custom)
+7. SCP Foundation (SCPFlow) (Custom)
+8. SewerFlow (SewerFlow) (Custom)
+9. Tomb (EgyptFlow) (Custom)
+
+[Debug  :MaxWasUnavailable.LethalModDataLib] Loading data from file LCSaveFile3.moddata with key LethalLevelLoader.LLLSaveFile.parityStepsTaken...
+[Debug  :MaxWasUnavailable.LethalModDataLib] Loading data from file LCSaveFile3.moddata with key LethalLevelLoader.LLLSaveFile.itemSaveData...
+[Debug  :MaxWasUnavailable.LethalModDataLib] Loading data from file LCSaveFile3.moddata with key LethalLevelLoader.LLLSaveFile.CurrentLevelName...
+[Info   :LethalLevelLoader] Initialized LLL Save File, Current Level Was: , Current Vanilla Save Is: LCSaveFile3
+[Info   :LethalLevelLoader] LethalLevelLoader Has Finished Initializing.
+[Info   : Unity Log] Weather chance: 0,7886578; 1
+[Info   :TooManyEmotes-2.2.7] Loading AudioManager preferences.
+[Info   : Unity Log] Enabling connection callbacks in StartOfRound
+[Info   : Unity Log] Began listening to SceneManager_OnLoadComplete1 on this client
+[Info   : Diversity] Added PlayerRevamp to: Player (1)
+[Info   : Diversity] Added PlayerRevamp to: Player (3)
+[Info   : Diversity] Added PlayerRevamp to: Player (2)
+[Info   : Diversity] Added PlayerRevamp to: Player
+[Info   : LethalLib] Adding 0 unlockables to unlockables list
+[Info   : LethalLib] Adding 1 items to terminal
+[Info   : Diversity] Added HUDManagerRevamp to: PlayersManager / HUDManager
+[Info   :TooManyEmotes-2.2.7] Initializing emote menu
+[Info   :TooManyEmotes-2.2.7] Loading AudioManager preferences.
+[Info   :TooManyEmotes-2.2.7] Loading ThirdPersonEmoteController preferences.
+[Info   :TooManyEmotes-2.2.7] Initializing animation renderer
+[Warning: Unity Log] DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[Warning: Unity Log] DontDestroyOnLoad only works for root GameObjects or components on root GameObjects.
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   :RugbugRedfern.SkinwalkerMod] HOST SENDING CONFIG TO CLIENTS
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
+[Info   : Unity Log] Initialized SkinwalkerNetworkManager
+[Info   :MoreCompany] ResizePlayerCache: 32
+[Info   :MoreCompany] Resizing player cache from 4 to 32 with difference of 28
+[Info   : Unity Log] Called teleport function on Player (4)
+[Info   : Unity Log] Called teleport function on Player (5)
+[Info   : Unity Log] Called teleport function on Player (6)
+[Info   : Unity Log] Called teleport function on Player (7)
+[Info   : Unity Log] Called teleport function on Player (8)
+[Info   : Unity Log] Called teleport function on Player (9)
+[Info   : Unity Log] Called teleport function on Player (10)
+[Info   : Unity Log] Called teleport function on Player (11)
+[Info   : Unity Log] Called teleport function on Player (12)
+[Info   : Unity Log] Called teleport function on Player (13)
+[Info   : Unity Log] Called teleport function on Player (14)
+[Info   : Unity Log] Called teleport function on Player (15)
+[Info   : Unity Log] Called teleport function on Player (16)
+[Info   : Unity Log] Called teleport function on Player (17)
+[Info   : Unity Log] Called teleport function on Player (18)
+[Info   : Unity Log] Called teleport function on Player (19)
+[Info   : Unity Log] Called teleport function on Player (20)
+[Info   : Unity Log] Called teleport function on Player (21)
+[Info   : Unity Log] Called teleport function on Player (22)
+[Info   : Unity Log] Called teleport function on Player (23)
+[Info   : Unity Log] Called teleport function on Player (24)
+[Info   : Unity Log] Called teleport function on Player (25)
+[Info   : Unity Log] Called teleport function on Player (26)
+[Info   : Unity Log] Called teleport function on Player (27)
+[Info   : Unity Log] Called teleport function on Player (28)
+[Info   : Unity Log] Called teleport function on Player (29)
+[Info   : Unity Log] Called teleport function on Player (30)
+[Info   : Unity Log] Called teleport function on Player (31)
+[Warning: Unity Log] damageTrigger is disabled! Netcode for GameObjects does not support spawning disabled NetworkBehaviours! The InteractTrigger component was skipped during spawn!
+[Info   : LethalLib] Found 0 prefabs to fix
+[Info   : Unity Log] 1107298560
+[Info   : Unity Log] 1107298560
+[Info   : Unity Log] level id: 0
+[Info   : Unity Log] Changing level
+[Info   :LethalLevelLoader] Saving Current SelectableLevel: 41 Experimentation
+[Info   : Unity Log] Loading from data: for 41 Experimentation: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for 220 Assurance: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for 56 Vow: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for 71 Gordion: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for 61 March: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for 20 Adamance: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for 85 Rend: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for 7 Dine: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for 21 Offense: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for 8 Titan: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for 68 Artifice: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for 44 Liquidation: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for 5 Embrion: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for 10 EGypt: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for 112 Aquatis: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for 43 Orion: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for Atlas Abyss: iterations at 0, starting at node #-1
+[Info   : Unity Log] Loading from data: for Secret Labs: iterations at 0, starting at node #-1
+[Info   : Unity Log] Weather chance: 0,7886578; 1
+[Info   : Unity Log] Item sales percentages #0: 0
+[Info   : Unity Log] Item sales percentages #1: 0
+[Info   : Unity Log] Item sales percentages #2: 0
+[Info   : Unity Log] Item sales percentages #3: 0
+[Info   : Unity Log] Item sales percentages #4: 0
+[Info   : Unity Log] Item sales percentages #5: 0
+[Info   : Unity Log] Item sales percentages #6: 0
+[Info   : Unity Log] Item sales percentages #7: 0
+[Info   : Unity Log] Item sales percentages #8: 0
+[Info   : Unity Log] Item sales percentages #9: 0
+[Info   : Unity Log] Item sales percentages #10: 0
+[Info   : Unity Log] Item sales percentages #11: 0
+[Info   : Unity Log] Item sales percentages #12: 0
+[Info   : Unity Log] Item sales percentages #13: 0
+[Info   : Unity Log] Item sales percentages #14: 0
+[Info   : Unity Log] Item sales percentages #15: 0
+[Info   : Unity Log] Item sales percentages #16: 0
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Warning: Unity Log] NetworkVariable is written to, but doesn't know its NetworkBehaviour yet. Are you modifying a NetworkVariable before the NetworkObject is spawned?
+[Info   :TooManyEmotes-2.2.7] Loading game values.
+[Info   :TooManyEmotes-2.2.7] Resetting unlocked emotes.
+[Info   :TooManyEmotes-2.2.7] Loaded Seed: 0
+[Info   : Unity Log] Key 'shipGrabbableItems' does not exist
+[Info   : Unity Log] Loaded vehicle ID: -1
+[Info   :TooManyEmotes-2.2.7] Rotating emote selection in store. Seed: 247568894
+[Info   :LCCutscene] Cutscene Manager initialized!
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (1)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (3)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (2)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player
+[Info   : Unity Log] Group credits: 60
+[Warning: Unity Log] TerminalKeyword must be instantiated using the ScriptableObject.CreateInstance method instead of new TerminalKeyword.
+[Info   : Diversity] Added Walker to debug list
+[Warning:LethalLevelLoader] Disabling LethalLib Dungeon.RoundManager_Start() Function To Prevent Conflicts
+[Info   : Unity Log] Spawning backrooms
+[Info   :GraphicsAPI] Custom Post Processing Manager initialized!
+[Info   :MoreCompany] Setting initial volume for 0 to 16
+[Info   :MoreCompany] Setting initial volume for 1 to 16
+[Info   :MoreCompany] Setting initial volume for 2 to 16
+[Info   :MoreCompany] Setting initial volume for 3 to 16
+[Info   : Diversity] Added Walker to 41 Experimentation with chance of 10 (inside)
+[Info   : Diversity] Added Walker to 220 Assurance with chance of 10 (inside)
+[Info   : Diversity] Added Walker to 56 Vow with chance of 10 (inside)
+[Info   : Diversity] Added Walker to 71 Gordion with chance of 10 (inside)
+[Info   : Diversity] Added Walker to 61 March with chance of 10 (inside)
+[Info   : Diversity] Added Walker to 20 Adamance with chance of 10 (inside)
+[Info   : Diversity] Added Walker to 85 Rend with chance of 10 (inside)
+[Info   : Diversity] Added Walker to 7 Dine with chance of 10 (inside)
+[Info   : Diversity] Added Walker to 21 Offense with chance of 10 (inside)
+[Info   : Diversity] Added Walker to 8 Titan with chance of 10 (inside)
+[Info   : Diversity] Added Walker to 68 Artifice with chance of 10 (inside)
+[Info   : Diversity] Added Walker to 44 Liquidation with chance of 10 (inside)
+[Info   : Diversity] Added Walker to 5 Embrion with chance of 10 (inside)
+[Info   : Diversity] Added Walker to 10 EGypt with chance of 10 (inside)
+[Info   : Diversity] Added Walker to 112 Aquatis with chance of 10 (inside)
+[Info   : Diversity] Added Walker to 43 Orion with chance of 10 (inside)
+[Info   : Diversity] Added Walker to Atlas Abyss with chance of 10 (inside)
+[Info   : Diversity] Added Walker to Secret Labs with chance of 10 (inside)
+[Debug  : Diversity] Watcher has been registered to 41 Experimentation with a weight of 30! Calculated spawn chance: 12,23404%
+[Debug  : Diversity] Watcher has been registered to 220 Assurance with a weight of 30! Calculated spawn chance: 8,333333%
+[Debug  : Diversity] Watcher has been registered to 56 Vow with a weight of 30! Calculated spawn chance: 8,313252%
+[Debug  : Diversity] Watcher has been registered to 71 Gordion with a weight of 30! Calculated spawn chance: 62,72727%
+[Debug  : Diversity] Watcher has been registered to 61 March with a weight of 30! Calculated spawn chance: 9,324324%
+[Debug  : Diversity] Watcher has been registered to 20 Adamance with a weight of 30! Calculated spawn chance: 7,48373%
+[Debug  : Diversity] Watcher has been registered to 85 Rend with a weight of 30! Calculated spawn chance: 7,340425%
+[Debug  : Diversity] Watcher has been registered to 7 Dine with a weight of 30! Calculated spawn chance: 24,46808%
+[Debug  : Diversity] Watcher has been registered to 21 Offense with a weight of 30! Calculated spawn chance: 12,19081%
+[Debug  : Diversity] Watcher has been registered to 8 Titan with a weight of 30! Calculated spawn chance: 5,674342%
+[Debug  : Diversity] Watcher has been registered to 68 Artifice with a weight of 30! Calculated spawn chance: 2,733756%
+[Debug  : Diversity] Watcher has been registered to 44 Liquidation with a weight of 30! Calculated spawn chance: 5,857385%
+[Debug  : Diversity] Watcher has been registered to 5 Embrion with a weight of 30! Calculated spawn chance: 9,274193%
+[Debug  : Diversity] Watcher has been registered to 10 EGypt with a weight of 30! Calculated spawn chance: 9,426229%
+[Debug  : Diversity] Watcher has been registered to 112 Aquatis with a weight of 30! Calculated spawn chance: 12,10526%
+[Debug  : Diversity] Watcher has been registered to 43 Orion with a weight of 30! Calculated spawn chance: 9,663866%
+[Debug  : Diversity] Watcher has been registered to Atlas Abyss with a weight of 30! Calculated spawn chance: 25%
+[Debug  : Diversity] Watcher has been registered to Secret Labs with a weight of 30! Calculated spawn chance: 5,808081%
+[Info   : Unity Log] planet mold states length: $18
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (4)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (5)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (6)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (7)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (8)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (9)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (10)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (11)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (12)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (13)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (14)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (15)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (16)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (17)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (18)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (19)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (20)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (21)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (22)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (23)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (24)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (25)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (26)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (27)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (28)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (29)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (30)
+[Info   :ReservedItemSlotCore-2.0.36] Initializing ReservedPlayerData for player: Player (31)
+[Info   : Unity Log] Called teleport function on Player
+[Info   : Unity Log] Taking control of player Player and enabling camera!
+[Info   : Unity Log] Called teleport function on Player (1)
+[Info   : Unity Log] Called teleport function on Player (2)
+[Info   : Unity Log] Called teleport function on Player (3)
+[Info   : Unity Log] Called teleport function on Player (4)
+[Info   : Unity Log] Called teleport function on Player (5)
+[Info   : Unity Log] Called teleport function on Player (6)
+[Info   : Unity Log] Called teleport function on Player (7)
+[Info   : Unity Log] Called teleport function on Player (8)
+[Info   : Unity Log] Called teleport function on Player (9)
+[Info   : Unity Log] Called teleport function on Player (10)
+[Info   : Unity Log] Called teleport function on Player (11)
+[Info   : Unity Log] Called teleport function on Player (12)
+[Info   : Unity Log] Called teleport function on Player (13)
+[Info   : Unity Log] Called teleport function on Player (14)
+[Info   : Unity Log] Called teleport function on Player (15)
+[Info   : Unity Log] Called teleport function on Player (16)
+[Info   : Unity Log] Called teleport function on Player (17)
+[Info   : Unity Log] Called teleport function on Player (18)
+[Info   : Unity Log] Called teleport function on Player (19)
+[Info   : Unity Log] Called teleport function on Player (20)
+[Info   : Unity Log] Called teleport function on Player (21)
+[Info   : Unity Log] Called teleport function on Player (22)
+[Info   : Unity Log] Called teleport function on Player (23)
+[Info   : Unity Log] Called teleport function on Player (24)
+[Info   : Unity Log] Called teleport function on Player (25)
+[Info   : Unity Log] Called teleport function on Player (26)
+[Info   : Unity Log] Called teleport function on Player (27)
+[Info   : Unity Log] Called teleport function on Player (28)
+[Info   : Unity Log] Called teleport function on Player (29)
+[Info   : Unity Log] Called teleport function on Player (30)
+[Info   : Unity Log] Called teleport function on Player (31)
+[Info   : Unity Log] Starting voice tracking for player: srkesgo
+[Info   :ReservedItemSlotCore-2.0.36] Unlocking reserved item slot: flashlight
+[Info   :TooManyEmotes-2.2.7] Loading ThirdPersonEmoteController preferences.
+[Info   :TooManyEmotes-2.2.7] Initializing local player.
+[Info   : Unity Log] !!!! ENABLING CAMERA FOR PLAYER: Player
+[Info   : Unity Log] !!!! connectedPlayersAmount: 0
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] [HELMET_CAMERAS] Starting coroutine...
+[Info   : Unity Log] [HELMET_CAMERAS] 5 seconds for init mode... Please wait...
+[Info   :TooManyEmotes-2.2.7] Rotating emote selection in store. Seed: 247568894
+[Info   : Unity Log] Has beta?: {hasBeta}
+[Info   : Unity Log] Has beta save data: True
+[Message:GraphicsAPI] Added 'GlitchPass' to the custom passes!
+[Message:GraphicsAPI] Added 'VignettePass' to the custom passes!
+[Message:GraphicsAPI] Added 'EyePass' to the custom passes!
+[Message:GraphicsAPI] Added 'CameraPass' to the custom passes!
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/LightSwitchContainer/PlacementCollider"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/Cube"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/AnimatedShipDoor/HangarDoorLeft (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (1)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ControlDesk.001"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (3)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (7)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (6)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (8)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (5)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/ShipBottomColliders/Cube (4)"
+[Warning: Unity Log] BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Environment/HangarShip/StorageCloset/Cube.000/Cube"
+[Warning:Lethal Company API] Asking all other players for their mod list..
+[Info   :ReservedItemSlotCore-2.0.36] Unlocking reserved item slot: flashlight
+[Warning: Unity Log] Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+[Info   : Unity Log] [HELMET_CAMERAS] Ship camera founded...
+[Info   : Unity Log] [HELMET_CAMERAS] Monitors were changed...
+[Info   : Unity Log] [HELMET_CAMERAS] Turning off vanilla internal ship camera
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] Set interminalmenu to true: True
+[Error  : Unity Log] Trying to add Caret (TMPro.TMP_SelectionCaret) for graphic rebuild while we are already inside a graphic rebuild loop. This is not supported.
+[Info   : Unity Log] Could not parse word: dasdasd
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] Stop special animation on TerminalScript, by Player (UnityEngine.Transform); Player (GameNetcodeStuff.PlayerControllerB)
+[Info   : Unity Log] Calling stop animation function StopUsing server rpc for player: 0
+[Info   : Unity Log] Stop special animation F
+[Info   : Unity Log] Stop special animation G
+[Info   : Unity Log] Quit terminal; inTerminalMenu true?: {playerScript.inTerminalMenu}
+[Info   : Unity Log] secondary use A
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :ReservedItemSlotCore-2.0.36] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-2.0.36] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :ReservedItemSlotCore-2.0.36] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-2.0.36] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :ReservedItemSlotCore-2.0.36] Focusing reserved hotbar slots. NewIndex: 4 OldIndex: 0 ReservedStartIndex: 4
+[Info   :ReservedItemSlotCore-2.0.36] Unfocusing reserved hotbar slots. NewIndex: 0 OldIndex: 4 ReservedStartIndex: 4
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] Player joined w steamId: 76561198958044928
+[Warning: Unity Log] [Netcode] NetworkConfig mismatch. The configuration between the server and client does not match
+[Info   : Unity Log] Disconnect callback called
+[Info   : Unity Log] Is server: True; ishost: True; isConnectedClient: True
+[Info   : Unity Log] Disconnect callback called in gamenetworkmanager; disconnecting clientId: 1
+[Info   : Unity Log] A Player disconnected but they were not in clientplayerlist
+[Info   : Unity Log] Player joined w steamId: 76561198083421963
+[Warning: Unity Log] [Netcode] NetworkConfig mismatch. The configuration between the server and client does not match
+[Info   : Unity Log] Disconnect callback called
+[Info   : Unity Log] Is server: True; ishost: True; isConnectedClient: True
+[Info   : Unity Log] Disconnect callback called in gamenetworkmanager; disconnecting clientId: 2
+[Info   : Unity Log] A Player disconnected but they were not in clientplayerlist
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   : Unity Log] Player joined w steamId: 76561198958044928
+[Warning: Unity Log] [Netcode] NetworkConfig mismatch. The configuration between the server and client does not match
+[Info   : Unity Log] Disconnect callback called
+[Info   : Unity Log] Is server: True; ishost: True; isConnectedClient: True
+[Info   : Unity Log] Disconnect callback called in gamenetworkmanager; disconnecting clientId: 3
+[Info   : Unity Log] A Player disconnected but they were not in clientplayerlist
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
+[Info   :RugbugRedfern.SkinwalkerMod] Audio folder not present. Don't worry about it, it will be created automatically when you play with friends. (C:/Program Files (x86)/Steam/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics)
